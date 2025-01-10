@@ -88,9 +88,9 @@ python extract.py # 默认生成"相机在物体坐标系下的位姿"，可修�
 
 ## 生成数据示例
 
-![image]("export/rgb/100000.png")
+![image](export/rgb/100000.png)
 
-![mask]("export/mask_visib/100000_000000.png")
+![mask](export/mask_visib/100000_000000.png)
 
 ## 注意
 
